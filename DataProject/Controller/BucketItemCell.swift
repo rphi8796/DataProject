@@ -8,7 +8,7 @@
 
 import UIKit
 
-class BucketItemCellTableViewCell: UITableViewCell {
+class BucketItemCell: UITableViewCell {
 
     override func awakeFromNib() {
         super.awakeFromNib()
