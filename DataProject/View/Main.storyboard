@@ -50,8 +50,9 @@
                                 </tableViewCellContentView>
                                 <connections>
                                     <outlet property="BucketItemSymbol" destination="Lmp-zw-Ych" id="HMI-ao-JDQ"/>
-                                    <outlet property="BucketItemText" destination="6Kw-xb-SR9" id="7j4-In-IPf"/>
                                     <outlet property="bucketItemSignature" destination="OZ1-Am-qbJ" id="FOL-M3-Zcm"/>
+                                    <outlet property="bucketItemSymbol" destination="Lmp-zw-Ych" id="XX0-E8-4r4"/>
+                                    <outlet property="bucketItemText" destination="6Kw-xb-SR9" id="F0N-7O-ljn"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
